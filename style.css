@@ -572,6 +572,10 @@ footer a{
     display: block;
 
 }
+    .base_coll img{
+    width: 90%;
+
+}
    
 .contenar_col{
     width: 100%;
