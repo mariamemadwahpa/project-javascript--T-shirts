@@ -529,7 +529,7 @@ footer a{
 
         }
     .container_img img {
-        width: 500px;
+        width: 300px;
 
     }
 
@@ -539,12 +539,13 @@ footer a{
         padding-bottom: 150px;
     }
     .bac_women{
-        width: 90%;
-    }
-    .bac_women img{
         width: 100%;
     }
    
+    .women_img{
+        width: 100%;
+        margin: 20px;
+    }
     .women{
         width: 90%;
         right: 0px;
