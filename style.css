@@ -568,5 +568,22 @@ footer a{
     .img_men{
         margin-bottom: 20px;
     }
+    .base_coll{
+    display: block;
+
+}
+   
+.contenar_col{
+    width: 100%;
+    
+}
+.pa1{
+top: 15px;
+margin: 50px;
+}
+.pa2{
+font-size: 20px;
+margin: 50px;
+}
   
 }
