@@ -560,13 +560,11 @@ footer a{
         font-size: 30px;
         margin-bottom: 60px;        
     }
-    
     .par1 {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-  
     .para{
         width: 50%;
     }
@@ -575,24 +573,22 @@ footer a{
     }
     .base_coll{
     display: block;
-
-}
-    .base_coll img{
-    width: 90%;
-
-}
-   
-.contenar_col{
-    width: 100%;
-    
-}
-.pa1{
-top: 15px;
-margin: 50px;
-}
-.pa2{
-font-size: 20px;
-margin: 50px;
-}
-  
+    }
+        .base_coll img{
+        width: 90%;
+    }   
+    .contenar_col{
+        width: 100%;
+    }
+    .pa1{
+    top: 15px;
+    margin: 50px;
+    }
+    .pa2{
+    font-size: 20px;
+    margin: 50px;
+    }
+    footer{
+        height: 720px;
+    }
 }
