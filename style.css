@@ -544,7 +544,9 @@ footer a{
    
     .women_img{
         width: 100%;
-        margin: 20px;
+         margin: 3px;
+        margin-top: 20px;
+        padding-left: 10px;
     }
     .women{
         width: 90%;
