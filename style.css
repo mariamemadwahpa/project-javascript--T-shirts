@@ -539,8 +539,10 @@ footer a{
         padding-bottom: 150px;
     }
     .bac_women{
+        width: 90%;
+    }
+    .bac_women img{
         width: 100%;
-        
     }
    
     .women{
